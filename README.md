@@ -1,5 +1,7 @@
 # vue-typescript-hello
 
+> A hello world of vue-typescript with vue-cli 3.
+
 ## Project setup
 ```
 npm install
